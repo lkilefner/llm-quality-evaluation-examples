@@ -17,6 +17,23 @@ This is the same lens I use in the classroom:
 | **/datasets** | Small JSON + CSV datasets used for scoring practice | Reflects readiness for LLM testing workflows |
 | **/dashboards** | Notes on how I would visualize and track evaluation results | Shows how I think about patterns & quality over time |
 
+### Example Prompts (Quick Links)
+
+- **Fractions with Pizza (Grade 3)**  
+  https://github.com/lkilefner/llm-quality-evaluation-examples/blob/main/prompts/01_fractions_grade3.md
+
+- **Photosynthesis (Grade 5)**  
+  https://github.com/lkilefner/llm-quality-evaluation-examples/blob/main/prompts/02_photosynthesis_grade5.md
+
+- **Encouraging Math Feedback (Supportive Tone)**  
+  https://github.com/lkilefner/llm-quality-evaluation-examples/blob/main/prompts/03_tone_student_feedback.md
+
+- **Apple Subtraction Word Problem (Edge Case)**  
+  https://github.com/lkilefner/llm-quality-evaluation-examples/blob/main/prompts/04_word_problem_edge_case.md
+
+- **Responding to Student Frustration (Emotional Support Case)**  
+  https://github.com/lkilefner/llm-quality-evaluation-examples/blob/main/prompts/05_emotional_support_message.md
+
 ### My Evaluation Priorities
 When reviewing LLM outputs, I look for:
 
