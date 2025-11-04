@@ -1,7 +1,7 @@
 # LLM Quality Evaluation Examples for K–12  
 Created by **Lauren Kilefner** (`lkilefner`)
 
-Hi there! I’m Lauren — a K–12 math and robotics teacher who believes that **educators are the magic**, and that AI should *support* great teaching, not replace it. This repo shows how I evaluate AI-generated responses for clarity, accuracy, tone, developmental appropriateness, and usefulness for real students and teachers.
+Hi there! I’m Lauren! I'm a former K–12 math and robotics teacher who believes that **educators are the magic**, and that AI should *support* great teaching, not replace it. This repo shows how I evaluate AI-generated responses for clarity, accuracy, tone, developmental appropriateness, and usefulness for real students and teachers.
 
 This is the same lens I use in the classroom:
 - Does the explanation *make sense* to the learner?
