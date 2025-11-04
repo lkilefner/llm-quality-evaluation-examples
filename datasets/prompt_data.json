@@ -1,0 +1,49 @@
+[
+  {
+    "id": "P01",
+    "prompt": "Explain fractions to a 3rd grader using a pizza example, in 4–6 short sentences. Avoid jargon and keep it friendly.",
+    "expected_summary": "Equal parts, numerator/denominator roles, concrete pizza example, kid-friendly tone, 4–6 sentences.",
+    "ground_truth_ref": "prompts/01_fractions_grade3.md",
+    "targets": {"accuracy": 5, "alignment": 5, "tone": 5, "clarity": 5, "actionability": 4}
+  },
+  {
+    "id": "P02",
+    "prompt": "Explain photosynthesis to a 5th grader in 5–7 sentences. Include sunlight, water, carbon dioxide, and oxygen, and end with a one-sentence summary.",
+    "expected_summary": "All four elements included; simple causal chain; final one-sentence summary.",
+    "ground_truth_ref": "prompts/02_photosynthesis_grade5.md",
+    "targets": {"accuracy": 5, "alignment": 5, "tone": 5, "clarity": 5, "actionability": 3}
+  },
+  {
+    "id": "P03",
+    "prompt": "A student scored 62% on a fractions quiz. Write 4–5 supportive sentences that (1) acknowledge effort, (2) name one strength, (3) identify one next step, and (4) invite questions. Avoid negative labels.",
+    "expected_summary": "Warm, specific, growth mindset; calls out a strength and a concrete next step; invites questions.",
+    "ground_truth_ref": "prompts/03_tone_student_feedback.md",
+    "targets": {"accuracy": 4, "alignment": 5, "tone": 5, "clarity": 5, "actionability": 5}
+  }
+  {
+  "id": "P04",
+  "prompt": "Sofia has 12 apples. She gives some to her friend. Now she has 7 apples. How many apples did Sofia give away? Explain your thinking in 1–2 short sentences, in kid-friendly language.",
+  "expected_summary": "Simple subtraction explanation using 12 - 7 = 5, short sentences, no advanced vocabulary, emphasizes clear reasoning.",
+  "ground_truth_ref": "prompts/04_word_problem_edge_case.md",
+  "targets": {
+    "accuracy": 5,
+    "alignment": 5,
+    "tone": 4,
+    "clarity": 5,
+    "actionability": 4
+  }
+},
+{
+  "id": "P05",
+  "prompt": "A student says, 'I’m really frustrated because I keep getting the wrong answers in math. I feel like I’m never going to understand this.' Respond in 4–5 supportive sentences. Do not minimize feelings. Avoid toxic positivity. Offer one specific next step.",
+  "expected_summary": "Validates emotion, names a strength, offers a specific next step, invites collaboration, supportive and calm tone.",
+  "ground_truth_ref": "prompts/05_emotional_support_message.md",
+  "targets": {
+    "accuracy": 4,
+    "alignment": 5,
+    "tone": 5,
+    "clarity": 5,
+    "actionability": 5
+  }
+}
+]
