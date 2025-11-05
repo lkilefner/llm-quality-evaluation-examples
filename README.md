@@ -58,4 +58,4 @@ LLMs are incredibly powerful, but great teaching is personal, kind, and thoughtf
 If you'd like to connect:  
 **LinkedIn:** www.linkedin.com/in/laurenkilefner
 
-Thanks for being here — and thanks for caring about thoughtful, responsible AI in education. 
+Thanks for being here for caring about thoughtful, responsible AI use in education!  
